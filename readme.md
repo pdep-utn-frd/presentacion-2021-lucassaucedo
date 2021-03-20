@@ -1,4 +1,4 @@
-# ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Hello World ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+# ▓▓▓▓▓▓▓▓▓▓▓▓ Hello World ▓▓▓▓▓▓▓▓▓▓▓▓▓
 
 ◄ Soy Lucas Emmanuel Saucedo ♂, Este es mi primer archivo en formato markdown, asi que voy a pasar a dar una breve descripción de mi persona ↓ ►
 
@@ -25,6 +25,6 @@ Y paro porque sino se hace largo.
 
 
 
-■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
 
