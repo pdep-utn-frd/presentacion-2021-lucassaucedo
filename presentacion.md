@@ -3,7 +3,7 @@
 ◄ Este es mi primer archivo en formato markdown, asi que voy a pasar a dar una breve descripción de mi persona ↓ ►
 
 + Soy estudiante de 2° de Ing. en Sistemas en la UTN FRD.
-+ Mido 1.72 m.
++ Tengo 21 años y mido 1.72 m.
 + Vivo en un lugar llamado *Benavidez*.
 + Fan de **DC comics** y *The Flash* ⚡
 + Fan de **Queen** ♥
